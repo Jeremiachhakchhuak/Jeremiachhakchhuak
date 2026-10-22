@@ -5,7 +5,6 @@
 ## 💻 About Me
 
 - 🎓 Recently completed my 2-year Electronic Mechanic course at ITI.
-- 🚀 Planning to continue my studies in Computer Science & Engineering at NIELIT.
 - 🤖 Tech-savvy & always curious about new gadgets and software.
 - 📱 Into all things Android: rooting, flashing custom ROMs, and exploring the edge of what’s possible.
 - 🐧 Linux enthusiast and terminal lover! Termux is my playground, and I’ve even installed Kali NetHunter to practice my tools.
